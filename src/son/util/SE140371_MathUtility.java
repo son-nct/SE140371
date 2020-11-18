@@ -115,6 +115,7 @@ public class SE140371_MathUtility {
         //nếu để ổ đĩa d khi vào cmd nhâp d:
         //nhấn cd cách ra nhấn chuột phải paste đường dẫn
         //cd là change direction
-        //sau đó nhập git init
+        //sau đó nhập git init //lệnh này để cbi push những gì lên server
+        //git config --global user.name
     }
 }
