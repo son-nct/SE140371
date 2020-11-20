@@ -8,7 +8,7 @@ this repository contains a Java Project to simulate some of Math methods found i
 *...
 
 ### Connect me via:
-1.[Facebook](https://www.facebook.com/profile.php?id=100007759153267)
-2.[Email](mailto:sonnctse140371@fpt.edu.vn)
+1. [Facebook](https://www.facebook.com/profile.php?id=100007759153267)
+2. [Email](mailto:sonnctse140371@fpt.edu.vn)
 
 ###  © 2020 by Nguyen Cong Thai Son | FPT University, HCMC
